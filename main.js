@@ -58,11 +58,4 @@ function toLibrary() {
 
 
 press.addEventListener('click', toLibrary);
- 
-// function addToLibrary() {
-//     if (searchBar.value.toLowerCase() === title.toLowerCase() || 
-//         searchBar.value.toLowerCase() === author.toLowerCase() ||
-//         searchBar.value.toLowerCase() === read.toLowerCase()) {
 
-//     }
-// }
